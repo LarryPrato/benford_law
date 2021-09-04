@@ -147,7 +147,7 @@ html_content_1="""
 The first time I remember hearing about this topic was in the NETFLIX series "OZARK". 
 It was in a scene where the main character of the series was asking an FBI agent 
 if she was trying to apply Benford's Law to create a predictable pattern in his business.... 
-So I did some searching, and found that it seems to be a widely used device to highlight any irregularities in accounting data.
+So, I did some searching, and found that it seems to be a widely used device to highlight any irregularities in accounting data.
 Benford's Law, also called the law of anomalous numbers, or the first-digit law, 
 is an observation about the frequency distribution of leading digits in many real-life 
 sets of numerical data. The law states that in many naturally occurring collections of numbers, 
