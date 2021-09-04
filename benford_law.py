@@ -311,7 +311,7 @@ with st.beta_container():
 
 
 html_content_3="""
-<h3 style="font-family:Oswald, sans-serif; color:#262A33"><b>Disclaimer</b></h3>
+<h3 style="font-family:Oswald, sans-serif; color:#262A33"><b>Disclaimer:</b></h3>
 <p style=" line-height: 1.35; font-family:Oswald, sans-serif; color:#262A33; font-size: 15px;">
 This application is for purely theoretical purposes and provides a quick glimpse to satisfy 
 curiosity. It does not support any conclusive determination.  
