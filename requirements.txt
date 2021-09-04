@@ -2,3 +2,4 @@ pandas==1.2.5
 plotly==5.1.0
 streamlit==0.84.0
 yahoo-fin==0.8.9.1
+matplotlib==3.2.2
