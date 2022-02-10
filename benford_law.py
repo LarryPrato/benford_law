@@ -145,9 +145,9 @@ html_content_1="""
 <h2 style="font-family:Oswald, sans-serif; color:#262A33"><b>Benford's law</b></h2>
 <p style=" line-height: 1.35; font-family:Oswald, sans-serif; color:#262A33; font-size: 20px;">
 The first time I remember hearing about this topic was in the NETFLIX series "OZARK". 
-It was in a scene where the main character of the series was asking an FBI agent 
-if she was trying to apply Benford's Law to create a predictable pattern in his business.... 
-So, I did some searching, and found that it seems to be a widely used device to highlight any irregularities in accounting data.
+It was in a scene where the main character of the series (Marty Byrde) was asking an FBI agent 
+if she was trying to apply Benford's Law to find a predictable pattern in his business... 
+So, I did some searching, and found that it seems to be a widely used resource to highlight any irregularities in accounting data.
 Benford's Law, also called the law of anomalous numbers, or the first-digit law, 
 is an observation about the frequency distribution of leading digits in many real-life 
 sets of numerical data. The law states that in many naturally occurring collections of numbers, 
@@ -313,7 +313,7 @@ with st.beta_container():
 html_content_3="""
 <h3 style="font-family:Oswald, sans-serif; color:#262A33"><b>Disclaimer:</b></h3>
 <p style=" line-height: 1.35; font-family:Oswald, sans-serif; color:#262A33; font-size: 15px;">
-This application is for purely theoretical purposes and provides a quick glimpse to satisfy 
+This application is for purely educational purposes and provides a quick glimpse to satisfy 
 curiosity. It does not support any conclusive determination.  
 </p>
 """
